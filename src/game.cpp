@@ -4,7 +4,7 @@
 SDL_Texture *texture = NULL;
 
 void App::setup() {
-   SDL_Surface *image = IMG_Load("moon.jpg");
+   SDL_Surface *image = IMG_Load("assets/moon.jpg");
    texture = SDL_CreateTextureFromSurface(this->renderer, image);
 }
 

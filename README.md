@@ -42,3 +42,7 @@ To clean your project directory, call
 ```bash
 make clean
 ```
+
+## Result
+
+![Image](/assets/screen.png?raw=true)

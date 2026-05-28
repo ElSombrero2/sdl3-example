@@ -10,7 +10,7 @@ Please check directly [here](https://github.com/libsdl-org/SDL/blob/main/INSTALL
 
 # Build and Run
 
-All the available command for building and running the project
+All the available commands for building and running the project
 ## Installation
 
 Before all, install your dependencies
